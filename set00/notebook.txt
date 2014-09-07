@@ -1,0 +1,74 @@
+Date  Who        Stat   Stop     Interruptions  Question  TimeOnTask  Comments   
+30/8  Feng       21:02  21:18    0              pre1      16          sign up CCIS account: fengs@ccs.neu.edu
+31/8  Feng       10:00  10:01    0              pre4      1           connect NUWave
+31/8  Feng       10:10  10:17    0              pre5      7           download and install Racket
+31/8  Feng       10:17  10:21    0              pre6      4           download and install Github
+03/9  Feng       10:05  10:12    0              pre3      7           ccs email account was created, and sign up for CS5010 on piazza
+03/9  Feng       10:12  10:18    0              pre6      6           sign up for Gitub
+04/9  Feng       9:30   9:43     0              pre2      13          download and install Microsoft Office 2011  
+04/9  Feng       11:28  11:34    0              pre6      6           sign up for gravatar, and upload my image for github              
+
+04/9  Feng       2:20   2:33     0              activity4 13          create a private repo for github named pdp2014.ps00, and clone the repo in my local machine 
+04/9  Feng       2:35   5:00     10             reading   135         read prologue and test example code in the prologue of textbook
+04/9  Feng       19:00  23:00    10+5           reading   225         read prologue and test example code in the prologue of textbook
+05/9  Feng       13:00  15:00    5              reading   115         read prologue and test example code in the prologue of textbook
+05/9  Feng       20:00  02:00    10+10         reading   340        read part 1 (1.1-2.4)
+06/9  Feng       9:30   9:38     0              ex1       8           do ex 1 of lesson 0.4
+06/9  Feng       9:38   9:44     0              ex2       6           do ex 2 of lesson 0.4
+06/9  Feng       9:45   9:50     0              ex3       5           define function for ex 3
+06/9  Feng       9:50   9:58     0              ex3       8           write test suites and test for ex 3 (get help from piazza on how to test inexact numbers, using check-within), using list to test more suits
+06/9  Feng       10:00  10:07    0              ex4       7           define function and revise comments for ex 4
+06/9  Feng       10:07  10:12    0              ex4       5           write test suites and test for ex 4 (get help from help desk  on how to test exact number or boolean, using check-equal)
+06/9  Feng       14:12  14:22    0              ex5       10          write the contracts, purpose statements and examples for function, define function, write test suites.
+06/9  Feng       14:22  15:00    2              ex6       36          help other students on piazza about ex6, define function with comments, judging the (sqr b - 4ac) to return 2 roots with a list, write test suits (list nested list)
+06/9  Feng       15:00  15:10    0              ex7       10          define functions and write testing suites
+06/9  Feng       15:10  15:25    0              ex8       15          define functions and write testing suites
+06/9  Feng       16:00  16:05    0              ex9       5           find out the difference between remainder and modulo
+06/9  Feng       16:05  16:15    0              ex9       10          define predicate and write testing suites 
+06/9  Feng       16:30  16:50    0              ex10      20          define function and write testing suites that can test all the orders of the three arguments
+
+============================================committing to github =========================    
+
+Total Time On Task pre1       16 (minutes)
+Total Time On Task pre2       13 (minutes)
+Total Time On Task pre3        7 (minutes)
+Total Time On Task pre4        1 (minutes)
+Total Time On Task pre5        7 (minutes)
+Total Time On Task pre6       12 (minutes)
+Total Time On Task activity4  13 (minutes)
+Total Time On Task reading   815 (minutes)
+Total Time On Task ex1         8 (minutes)
+Total Time On Task ex2         6 (minutes)
+Total Time On Task ex3        13 (minutes)
+Total Time On Task ex4        12 (minutes)
+Total Time On Task ex5        10 (minutes)
+Total Time On Task ex6        36 (minutes)
+Total Time On Task ex7        10 (minutes)
+Total Time On Task ex8        15 (minutes)
+Total Time On Task ex9        15 (minutes)
+Total Time On Task ex10       20 (minutes)
+
+TOTpre1                     0.25 (hours and tenths)
+TOTpre2                     0.25 (hours and tenths)
+TOTpre3                      0.1 (hours and tenths)
+TOTpre4                    0.015 (hours and tenths)
+TOTpre5                      0.1 (hours and tenths)
+TOTpre6                      0.2 (hours and tenths)
+TOTactivity4                0.25 (hours and tenths)
+TOTreading                  13.6 (hours and tenths)
+TOTex1                      0.12 (hours and tenths)
+TOTex2                       0.1 (hours and tenths)
+TOTex3                      0.25 (hours and tenths)
+TOTex4                       0.2 (hours and tenths)
+TOTex5                      0.18 (hours and tenths)
+TOTex6                       0.6 (hours and tenths)
+TOTex7                       0.1 (hours and tenths)
+TOTex8                      0.25 (hours and tenths)
+TOTex9                      0.25 (hours and tenths)
+TOTex10                     0.33 (hours and tenths)
+
+
+
+
+
+
